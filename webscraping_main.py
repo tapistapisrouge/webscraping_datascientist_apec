@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Sep 21 16:19:45 2021
+Created on Tue Sep 21 19:19:45 2021
 @author: amaur
 Objectifs :
     - récupérer les offres sur différentes pages web (infos basiques : titre, cdd/cdi, date de début)
